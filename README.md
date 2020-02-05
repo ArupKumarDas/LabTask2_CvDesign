@@ -1,0 +1,1 @@
+# LabTask2_CvDesign
